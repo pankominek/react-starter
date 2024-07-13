@@ -1,3 +1,5 @@
-.gitignore
 node_modules/
 dist/
+.eslintrc.cjs
+.gitignore
+.package-lock.json
