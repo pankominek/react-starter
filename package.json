@@ -1,9 +1,9 @@
 {
   "name": "react-starter",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Starter template for React project with Vite, TypeScript, and Tailwind CSS",
-  "author": "Your Name",
+  "author": "Kamil Kominek",
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/react-starter.git"
